@@ -1,9 +1,9 @@
-package com.chikeandroid.retrofittutorial.data.remote;
+package ws.design.com.data.remote;
 
-import com.chikeandroid.retrofittutorial.data.model.SOAnswersResponse;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
+import ws.design.com.data.model.SOAnswersResponse;
 
 /**
  * Created by Chike on 12/3/2016.

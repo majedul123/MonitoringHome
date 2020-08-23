@@ -22,11 +22,24 @@
                 layout="@layout/toolbar" />
         </LinearLayout>
 
-        <FrameLayout
+        <LinearLayout
             android:id="@+id/container_body"
-            android:layout_width="fill_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1" />
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:weightSum="2"
+            android:layout_height="match_parent"
+            >
+            <com.linheimx.app.library.charts.LineChart
+                android:id="@+id/chart"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+            <com.linheimx.app.library.charts.LineChart
+                android:id="@+id/chart1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"/>
+        </LinearLayout>
 
 
     </LinearLayout>
@@ -39,20 +52,10 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         app:layout="@layout/fragment_navigation_drawer"
-        tools:layout="@layout/fragment_navigation_drawer" >
+        tools:layout="@layout/fragment_navigation_drawer">
 
 
-
-
-
-        </fragment>
-
-
-
-
-
-
-
+    </fragment>
 
 
 </android.support.v4.widget.DrawerLayout>

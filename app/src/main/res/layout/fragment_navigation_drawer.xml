@@ -75,7 +75,7 @@
               android:gravity="center"
               android:layout_width="match_parent"
               android:layout_height="wrap_content"
-              android:text="Grab"
+              android:text="Monitoring Home"
               android:textColor="#ffffff"
               android:padding="10dp"
               android:textStyle="bold"

@@ -3,12 +3,300 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\MahadiurJaman\.android\build-cache\432d0d4e25903664038cf3106f421f7bfce81476\output\jars\classes.jar"
+        jar="C:\Users\MahadiurJaman\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_49d34be1f7a2eee32cfacdaeb45ba96caca08302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_4110ebc30117a97004f420987728301011d12945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\ceb1d7448b61a6b257484892b55aad226d016af8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_5a74b8dcc978ac48590a53ee0070d08f793c4a88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\okio-1.8.0_3c440a80c80d904ec4c67cbab6c9240870560851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\7aeb009c68a2200e642858ab9255383b1fd27a31\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_56b3e47a7661daeb99e285b677290f47f30b2458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\okio-1.8.0_3c440a80c80d904ec4c67cbab6c9240870560851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_49d34be1f7a2eee32cfacdaeb45ba96caca08302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\bb083b1b53790947b1fd52557c34779893d31c71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_a337798f509d4b4c6f5590cac24b3f7f2f502046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\14e14f216649674b1d75149ccf04982b708d3368\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_d0ff1d555fbfff8e978b2c648c492a6e959535a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\ceb1d7448b61a6b257484892b55aad226d016af8\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_81a01627e1dbbae3c6298ee2d75a625610a807f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_66ac5ccb5ca2931a1c4ffab8fc6b5e46fe842121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\abc6f9cd197b82444b0e98eb1a24caa50c3ded84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_287c75632f0eff628b56dce193df949895916afd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_35866f567e77b5dd2f11eed94ed17c8095701d3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\c4acabfeb7a0abf571e9a6b90d5d47fedc83c2c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c1cf5d750ee0a4c86adae6d6ab6c14de027befc">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_7c8b9681a48fec0e5194d532203bbdbb3c94fb01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_4110ebc30117a97004f420987728301011d12945.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\7aeb009c68a2200e642858ab9255383b1fd27a31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_b6161df85304446d58e94401662160cc44733df2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\e50b74ee7796122ffc45d97dac122563f0d1eff5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_2cdfe5646c7ff4a01fd2146d96fe7a2e485c68be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\gson-2.7_2fa07faabe8e7c3ffb1c45f05141519395104ef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0_66ac5ccb5ca2931a1c4ffab8fc6b5e46fe842121.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\3e1eea06c227368d557e0b7b477b3a73f46c6e65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_3bbeef37c40aa6f8b8c06764f523815e3118e718.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\bb083b1b53790947b1fd52557c34779893d31c71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_a337798f509d4b4c6f5590cac24b3f7f2f502046.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\ee49af53ccf8fd54b547f40ebaa67152e43004b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_36c41c0035b49d6959866db1ffacd0740ae08fd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\432d0d4e25903664038cf3106f421f7bfce81476\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
         sha1="bef8a6e9c48d173c5507cf734637b0726dc3afb1">
-        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\blue\blue\Bluenevigation\app\build\intermediates\pre-dexed\debug\classes_be3395970dcc9ba35237520acc7e3d4c61eeaa11.jar" />
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_be3395970dcc9ba35237520acc7e3d4c61eeaa11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\b50578b3a3d07d0738cc7064b557fc16b11e11d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_eab3e85f601860ebb1c2b51720582028c88b473d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0_35866f567e77b5dd2f11eed94ed17c8095701d3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\9687171b71ad5773aaf9b8f8363c31f46261ca0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_2be699f3a9046df7c3c9994dafc80023ac55ac45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\5833d74d6a23486d8e22fefadfcc75207f9c4d18\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_2c1647af198309c995a63eae95aaa1cd55ff2a1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_57758997c5aae89d3bca64a902930aaf503e0633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\abc6f9cd197b82444b0e98eb1a24caa50c3ded84\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e197bbdee593758e53c7b24d0bb12c81ac4c9366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\5833d74d6a23486d8e22fefadfcc75207f9c4d18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\classes_27634f4d2e13f6069d9c8e6233866bff325ce7f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Sdk\adt-bundle-windows-x86_64-20130219\adt-bundle-windows-x86_64-20130219\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_d0f3f393d08a005223d99cdfff482d5330787b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0_57758997c5aae89d3bca64a902930aaf503e0633.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MahadiurJaman\.android\build-cache\14e14f216649674b1d75149ccf04982b708d3368\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\MahadiurJaman\Downloads\Compressed\play\code\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_090eb1104f12176ee6c3e5af4b350212f6dffeea.jar" />
     </item>
 
 </items>

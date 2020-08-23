@@ -1,4 +1,4 @@
-package com.chikeandroid.retrofittutorial.data.model;
+package ws.design.com.data.model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

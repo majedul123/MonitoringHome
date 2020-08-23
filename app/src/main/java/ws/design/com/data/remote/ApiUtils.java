@@ -1,4 +1,4 @@
-package com.chikeandroid.retrofittutorial.data.remote;
+package ws.design.com.data.remote;
 
 /**
  * Created by Chike on 12/4/2016.

@@ -200,7 +200,7 @@
         <ImageView
             android:layout_width="180dp"
             android:layout_height="90dp"
-            android:src="@drawable/logo"
+            android:src="@drawable/layeru"
             />
     </LinearLayout>
 
